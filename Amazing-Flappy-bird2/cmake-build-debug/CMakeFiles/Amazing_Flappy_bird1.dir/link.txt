@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Amazing_Flappy_bird1.dir/ConsoleApplication1/ConsoleApplication1.cpp.o -o Amazing_Flappy_bird1

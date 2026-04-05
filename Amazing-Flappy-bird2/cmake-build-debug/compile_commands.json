@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/apple/CLionProjects/Amazing-Flappy-bird2/cmake-build-debug",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -fcolor-diagnostics -o CMakeFiles/Amazing_Flappy_bird1.dir/ConsoleApplication1/ConsoleApplication1.cpp.o -c /Users/apple/CLionProjects/Amazing-Flappy-bird2/ConsoleApplication1/ConsoleApplication1.cpp",
+  "file": "/Users/apple/CLionProjects/Amazing-Flappy-bird2/ConsoleApplication1/ConsoleApplication1.cpp",
+  "output": "CMakeFiles/Amazing_Flappy_bird1.dir/ConsoleApplication1/ConsoleApplication1.cpp.o"
+}
+]

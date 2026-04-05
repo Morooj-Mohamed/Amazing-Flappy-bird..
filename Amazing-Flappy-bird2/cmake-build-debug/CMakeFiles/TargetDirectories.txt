@@ -1,0 +1,3 @@
+/Users/apple/CLionProjects/Amazing-Flappy-bird2/cmake-build-debug/CMakeFiles/Amazing_Flappy_bird1.dir
+/Users/apple/CLionProjects/Amazing-Flappy-bird2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apple/CLionProjects/Amazing-Flappy-bird2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
